@@ -1,0 +1,57 @@
+body{
+    background-color:blanchedalmond;
+}
+
+div{
+    margin: 10px;
+}
+.navItems{
+    width: 90px;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+.Nav1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Nav2{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+
+.hero{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+.paragraph{
+    display: flex;
+    justify-content: center;
+}
+.somethingbutton{
+    display: flex;
+    justify-content: center;
+    color: red;
+    
+}
+.bigbutton{
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 15px;
+    padding: 15px;
+}
+
